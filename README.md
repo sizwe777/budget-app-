@@ -8,6 +8,7 @@ Add Expense – Input expenses with categories
 Set Goals – Track savings/spending goals
 Trends – View summarized expenses per category
 Rewards – Placeholder for future incentive system
+Expense - The expense have all the pages
 
 Tech Stack
 
